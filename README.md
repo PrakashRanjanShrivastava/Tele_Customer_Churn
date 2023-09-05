@@ -14,9 +14,15 @@ So we need to predict the person who are all wants to be churn.Its very importan
 ##Steps involved in Model Deployment:
 
 Data Analysis (EDA)
+
 Data Preprocessing.
+
 Feature Engineering.
+
 Feature Selection (SelectKBest)
+
 Fit into Algorithm (ML Algorithm)
+
 Hyper Parameter Tunning (RandomSearchCV)
+
 Dump model (Pickle)
