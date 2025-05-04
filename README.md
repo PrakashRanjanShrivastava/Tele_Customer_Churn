@@ -6,6 +6,20 @@ Churn prediction means detecting which customers are likely to cancel a subscrip
 
 Customer churn is a common problem across businesses in many sectors. If you want to grow as a company, you have to invest in acquiring new clients. Every time a client leaves, it represents a significant investment lost. Both time and effort need to be channelled into replacing them. Being able to predict when a client is likely to leave, and offer them incentives to stay, can offer huge savings to a business.
 
+
+## 📂 Dataset
+
+**Direct Download**
+
+<a href="https://github.com/PrakashRanjanShrivastava/Tele_Customer_Churn/blob/main/Data/Telco-Customer-Churn.csv.csv"></a>
+
+- Source: [Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)
+
+- Size: ~7K records
+
+- Features: Gender, Tenure, Monthly Charges, Total Charges, Service Subscriptions, Churn (target)
+
+
 ## 📊 About This Project
 
 - **Total Monthly Charges**: ~$16,056,169
