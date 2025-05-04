@@ -11,7 +11,7 @@ Customer churn is a common problem across businesses in many sectors. If you wan
 
 **Direct Download**
 
-<a href="https://github.com/PrakashRanjanShrivastava/Tele_Customer_Churn/blob/main/Data/Telco-Customer-Churn.csv.csv"></a>
+<a href="https://github.com/PrakashRanjanShrivastava/Tele_Customer_Churn/blob/main/Data/Telco-Customer-Churn.csv.csv">Tele_customer_Churn_data</a>
 
 - Source: [Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)
 
